@@ -1,16 +1,1 @@
-- 👋 Hi, I’m @Badal-Hasda
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning c++,HTML and Python ...
-- 💞️ I had a very nice friend she was cute and caring.... no more..😁😁 
-- I'm a student...
-- 📫 How to reach me contact me / lol ...
- - LOVE ABOUT COMPUTER AND I HAVE A GREAT CURIOSITY TO KNOW HOW EACH OF THE SYSTEM WORKS...😂😂😂
- - CURRENTLY STUDYING AT DELHI..😘😎
- - SCHOOL= KVGM (KVS GOLE MARKET)
- - IF U KNOW ME TRY CONTACTING ME ..... LOL U'LL NEVER FIND ME...
- - BYE -BYE .....🔥🔥
-
-<!---
-Badal-Hasda/Badal-Hasda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MOOD OFF 😔😧😣💔
